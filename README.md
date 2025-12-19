@@ -16,9 +16,7 @@ The database includes the following information about the passengers on the Tita
 – Passenger Class
 - Gender
 - Age
-
 - Fare
-
 – Embarkation point
 
 – Survival status
