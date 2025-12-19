@@ -33,7 +33,7 @@ The data set is publicly accessible and can be used for gaining knowledge on dat
 The analysis has a structured EDA process:
 1. Knowledge of data structure & characteristics
 2. Dealing with missing values and data types
-3. Analysis univariée du caractère important
+3. Univariate Analysis of Key Features
 4. Bivariate Analysis of Survival Outcomes
 5. Multivariate Analysis Incorporating Class, Gender, & Survival
 6. Summary of insights and conclusions
