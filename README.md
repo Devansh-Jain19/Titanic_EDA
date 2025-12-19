@@ -17,9 +17,9 @@ The database includes the following information about the passengers on the Tita
 - Gender
 - Age
 - Fare
-– Embarkation point
+- Embarkation point
 
-– Survival status
+- Survival status
 The data set is publicly accessible and can be used for gaining knowledge on data analysis concepts.
 -
 ## Tools and Libraries Used
@@ -32,23 +32,19 @@ The data set is publicly accessible and can be used for gaining knowledge on dat
 ## Analysis Workflow
 The analysis has a structured EDA process:
 1. Knowledge of data structure & characteristics
-
 2. Dealing with missing values and data types
-
 3. Analysis univariée du caractère important
 4. Bivariate Analysis of Survival Outcomes
 5. Multivariate Analysis Incorporating Class, Gender, & Survival
-
-It
 6. Summary of insights and conclusions
 
 ---
 
 ## Key Insights
 
-– More women passengers recorded a higher survival count compared to male passengers for all categories of passengers. 
+- More women passengers recorded a higher survival count compared to male passengers for all categories of passengers. 
 - Passenger class played an important role in survival, with first-class passengers demonstrating higher survival rates. 
-– The number of surviving individuals for younger groups exceeded the number for older groups. 
+- The number of surviving individuals for younger groups exceeded the number for older groups. 
 - "The survival outcomes were determined by gender, class, and age factors." 
 
 These results are consistent with what has been seen in the Titanic data set.
