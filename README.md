@@ -21,7 +21,7 @@ The database includes the following information about the passengers on the Tita
 
 - Survival status
 The data set is publicly accessible and can be used for gaining knowledge on data analysis concepts.
--
+
 ## Tools and Libraries Used
 - Python
 - Pandas
